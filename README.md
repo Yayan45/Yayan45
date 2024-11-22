@@ -69,13 +69,4 @@
   </a> 
 </p>
 
----
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yayan45&show_icons=true&locale=en&layout=compact" alt="yayan45" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yayan45&show_icons=true&locale=en" alt="yayan45" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yayan45&" alt="yayan45" />
-</p>
