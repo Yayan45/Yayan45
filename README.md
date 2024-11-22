@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/yayan-rif-an-awaludin-b41001254/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/yayan.rifan.96?locale=id_id" target="blank">
+  <a href="https://www.facebook.com/yayan.rifan.96/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/https://www.instagram.com/yyayany/" target="blank">
