@@ -13,7 +13,7 @@
     <td>
       <ul>
         <li>✨ I am a student at <b>Dian Nuswantoro University</b>, passionate about creating intuitive and impactful digital experiences.</li>
-        <li>🌱 I’m currently learning <b>React</b> and <b>Laravel</b> to deepen my skills in <b>Front-End Development</b>.</li>
+        <li>🌱 I’m currently learning <b>React JS</b>  to deepen my skills in <b>Front-End Development</b>.</li>
         <li>👨‍💻 All of my projects are available at <a href="https://yayan45.github.io/Portfolio-4/">Portfolio</a></li>
         <li>📫 How to reach me: <b>yayanrifan45@gmail.com</b></li>
         <li>⚡ Fun fact: <i>I think I am funny 😄</i></li>
